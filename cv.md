@@ -40,4 +40,4 @@
 
 ## ADDITIONAL INFORMATION
 
-### English level - A2/B1
+### English level - A2/B1.
