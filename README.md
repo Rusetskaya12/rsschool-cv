@@ -1,1 +1,1 @@
-# [rsschool-cv](https://rusetskaya12.github.io/rsschool-cv/)
+https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/cv-stage0.md 
